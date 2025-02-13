@@ -8,7 +8,7 @@ import org.json.JSONTokener
 
 
 // Step 1: Send API Request
-def response = WS.sendRequest(findTestObject('Object Repository/Get_5DayWeatherForecast'))
+def response = WS.sendRequest(findTestObject('Object Repository/Get_5DayWeatherForecastsets'))
 
 // Step 2: Convert response body to JSON
 def responseBody = response.getResponseBodyContent()
