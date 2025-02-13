@@ -41,7 +41,7 @@ OpenWeatherAPIAutomation/
 ### 1️⃣ **Clone the Project**  
 Clone project dari GitHub:  
 ```sh
-git clone [https://github.com/username/katalon-api-testing.git](https://github.com/milhamiy/TestADLIndonesia.git)
+git clone https://github.com/milhamiy/TestADLIndonesia.git
 ```
 
 ### 2️⃣ **Install External Library**  
