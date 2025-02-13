@@ -50,7 +50,7 @@ git clone https://github.com/milhamiy/TestADLIndonesia.git
 ### 2️⃣ **Install External Library**  
 Tambahkan **`org.everit.json.schema-1.14.2.jar`** ke Katalon Studio:  
 1. **Drag and drop** file `org.everit.json.schema-1.14.2.jar` ke folder `Drivers/`.  
-2. Buka menu **Project > Settings > External Libraries** di Katalon Studio.  
+2. Buka menu **Project > Settings > Library Management > Click Button '+ Add'** di Katalon Studio.  
 3. Klik **Add**, lalu pilih file `org.everit.json.schema-1.14.2.jar` dari folder `Drivers/`.  
 4. Klik **OK** untuk menyimpan.
 
