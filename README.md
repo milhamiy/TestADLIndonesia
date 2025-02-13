@@ -10,18 +10,28 @@ Project ini menggunakan plugin eksternal **`org.everit.json.schema-1.14.2.jar`**
 
 ## 📂 Project Structure  
 ```
-KatalonStudioProject/
+OpenWeatherAPIAutomation/
+  ├── Profiles/
+  │     └── default
   ├── Test Cases/
-  │     ├── Test_5DayWeatherForecast.groovy          # Test case untuk 5-Day Weather Forecast
-  │     └── Test_CurrentAirPollution.groovy          # Test case untuk Current Air Pollution
-  ├── Object Repository/
-  │     ├── Get_5DayWeatherForecast.rs               # API request object untuk 5-Day Weather Forecast
-  │     └── Get_CurrentAirPollution.rs               # API request object untuk Current Air Pollution
+  │     ├── Get_5DayWeatherForecast/
+  │     │     └── Test_5DayWeatherForecast
+  │     └── Get_CurrentAirPollution/
+  │           └── Test_CurrentAirPollution
   ├── Test Suites/
-  │     └── Tugas ADL Indonesia.ts                   # Test suite berisi dua test case di atas
-  ├── Drivers/
-  │     └── org.everit.json.schema-1.14.2.jar        # External JAR untuk validasi JSON Schema
-  └── Reports/                                       # Folder untuk report hasil eksekusi
+  │     └── Tugas ADL Indonesia
+  ├── Object Repository/
+  │     ├── Get_5DayWeatherForecast.rs
+  │     └── Get_CurrentAirPollution.rs
+  ├── Reports/
+  │     ├── 20250213_014013/
+  │     └── 20250213_072347/
+  ├── Plugins/
+  │     └── org.everit.json.schema-1.14.2.jar
+  ├── Include/
+  │     └── scripts/
+  └── TestOps/
+
 ```
 
 ---
