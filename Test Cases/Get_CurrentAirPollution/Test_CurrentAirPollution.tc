@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_CurrentAirPollution</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbfece04-a1bf-4c48-9bca-1f72bbcde84a</testCaseGuid>
+</TestCaseEntity>
