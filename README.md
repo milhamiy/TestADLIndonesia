@@ -89,5 +89,3 @@ Jika report tidak muncul:
 
 ## 📞 Support  
 Jika ada pertanyaan, silakan hubungi [iidrisyunus97@gmail.com](mailto:iidrisyunus97@gmail.com).
-
->>>>>>> branch 'master' of https://github.com/milhamiy/TestADLIndonesia.git
